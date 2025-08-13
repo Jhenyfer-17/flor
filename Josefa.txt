@@ -3,3 +3,7 @@ Passo 2 - mkdir flor
 Passo 3 - cd flor
 Passo 4 - git init
 Passo 5 - Criar documento no repositório
+Passo 6 - git add .
+Passo 7 - git commit -m "Enviando a flor para nuvem"
+Passo 8 - git remote add origin https://github.com/Jhenyfer-17/flor.git
+	  git push -u origin main
